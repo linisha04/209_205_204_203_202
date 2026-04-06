@@ -1,0 +1,515 @@
+fiscal_year,year,month,month_numeric,imps_remitter_bank,volume_lakhs,value_cr,updated_on,released_on,data_source,data_url
+2025-26,2025,April,4,HDFC BANK,23.73,10105.48,2026-04-03,2025-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,April,4,FEDERAL BANK,19.13,7722.13,2026-04-03,2025-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,April,4,YES BANK LTD,13.03,6864,2026-04-03,2025-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,April,4,RBL BANK LIMITED,3.45,1967.03,2026-04-03,2025-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,April,4,ICICI BANK,3.34,1156.86,2026-04-03,2025-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,April,4,EMIRATES NBD BANK,1.35,603.52,2026-04-03,2025-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,April,4,PUNJAB NATIONAL BANK,0.57,429.86,2026-04-03,2025-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,April,4,AXIS BANK,0.44,287.42,2026-04-03,2025-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,April,4,INDUSIND BANK,0.37,200.61,2026-04-03,2025-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,April,4,CANARA BANK,0.37,147.33,2026-04-03,2025-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,April,4,THE SOUTH INDIAN BANK,0.25,85.86,2026-04-03,2025-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,April,4,KOTAK MAHINDRA BANK,0.24,137.77,2026-04-03,2025-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,April,4,STATE BANK OF INDIA,0.19,73.47,2026-04-03,2025-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,April,4,CITIBANK,0.01,5.95,2026-04-03,2025-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,April,4,IDFC BANK,0.01,2.34,2026-04-03,2025-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,July,7,HDFC BANK,29.55,12039.96,2026-04-03,2025-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,July,7,FEDERAL BANK,23.26,9889.04,2026-04-03,2025-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,July,7,YES BANK LTD,13.46,6824.59,2026-04-03,2025-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,July,7,ICICI BANK,3.74,1369.36,2026-04-03,2025-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,July,7,RBL BANK LIMITED,3.21,2074.63,2026-04-03,2025-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,July,7,EMIRATES NBD BANK,1.65,799.09,2026-04-03,2025-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,July,7,CANARA BANK,0.79,405.42,2026-04-03,2025-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,July,7,PUNJAB NATIONAL BANK,0.61,479.71,2026-04-03,2025-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,July,7,AXIS BANK,0.41,316.52,2026-04-03,2025-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,July,7,STATE BANK OF INDIA,0.39,166,2026-04-03,2025-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,July,7,INDUSIND BANK,0.37,208.17,2026-04-03,2025-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,July,7,THE SOUTH INDIAN BANK,0.3,116.09,2026-04-03,2025-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,July,7,KOTAK MAHINDRA BANK,0.27,173.84,2026-04-03,2025-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,July,7,CITIBANK,0.02,12.61,2026-04-03,2025-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,July,7,IDFC BANK,0.01,12.27,2026-04-03,2025-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,June,6,HDFC BANK,27.2,11706.23,2026-04-03,2025-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,June,6,FEDERAL BANK,23.09,9662.42,2026-04-03,2025-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,June,6,YES BANK LTD,11.8,6342.52,2026-04-03,2025-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,June,6,ICICI BANK,4.11,1412.78,2026-04-03,2025-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,June,6,RBL BANK LIMITED,3.66,2298.17,2026-04-03,2025-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,June,6,EMIRATES NBD BANK,1.48,687,2026-04-03,2025-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,June,6,CANARA BANK,0.87,453.53,2026-04-03,2025-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,June,6,PUNJAB NATIONAL BANK,0.58,459.32,2026-04-03,2025-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,June,6,STATE BANK OF INDIA,0.46,197.86,2026-04-03,2025-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,June,6,INDUSIND BANK,0.41,226.99,2026-04-03,2025-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,June,6,AXIS BANK,0.4,302.17,2026-04-03,2025-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,June,6,THE SOUTH INDIAN BANK,0.26,94.81,2026-04-03,2025-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,June,6,KOTAK MAHINDRA BANK,0.25,160,2026-04-03,2025-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,June,6,IDFC BANK,0.01,10.11,2026-04-03,2025-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,June,6,CITIBANK,0.01,8.39,2026-04-03,2025-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,May,5,HDFC BANK,26.47,11144.66,2026-04-03,2025-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,May,5,FEDERAL BANK,23.06,9467.54,2026-04-03,2025-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,May,5,YES BANK LTD,11.37,6055.25,2026-04-03,2025-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,May,5,RBL BANK LIMITED,4.06,2246.76,2026-04-03,2025-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,May,5,ICICI BANK,4.38,1509.04,2026-04-03,2025-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,May,5,EMIRATES NBD BANK,1.53,698.8,2026-04-03,2025-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,May,5,PUNJAB NATIONAL BANK,0.62,492.72,2026-04-03,2025-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,May,5,AXIS BANK,0.53,330.93,2026-04-03,2025-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,May,5,CANARA BANK,0.65,307.95,2026-04-03,2025-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,May,5,INDUSIND BANK,0.4,243.91,2026-04-03,2025-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,May,5,STATE BANK OF INDIA,0.35,153.84,2026-04-03,2025-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,May,5,KOTAK MAHINDRA BANK,0.24,142.68,2026-04-03,2025-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,May,5,THE SOUTH INDIAN BANK,0.27,100.54,2026-04-03,2025-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,May,5,CITIBANK,0.01,8.11,2026-04-03,2025-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,May,5,IDFC FIRST BANK,0.01,5.13,2026-04-03,2025-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,November,11,HDFC BANK,20.04,7913.47,2026-04-03,2024-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,November,11,FEDERAL BANK,15.06,6790.88,2026-04-03,2024-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,November,11,YES BANK LTD,14.23,6699.74,2026-04-03,2024-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,November,11,ICICI BANK,3.35,1169.51,2026-04-03,2024-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,November,11,RBL BANK LIMITED,3.01,1600.75,2026-04-03,2024-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,November,11,EMIRATES NBD BANK,1.41,658.49,2026-04-03,2024-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,November,11,CANARA BANK,0.7,335.91,2026-04-03,2024-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,November,11,PUNJAB NATIONAL BANK,0.58,443.52,2026-04-03,2024-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,November,11,THE SOUTH INDIAN BANK,0.56,218.54,2026-04-03,2024-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,November,11,AXIS BANK,0.51,306.67,2026-04-03,2024-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,November,11,INDUSIND BANK,0.29,154.74,2026-04-03,2024-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,November,11,KOTAK MAHINDRA BANK,0.21,102.24,2026-04-03,2024-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,November,11,STATE BANK OF INDIA,0.1,33.05,2026-04-03,2024-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,November,11,CITIBANK,0.01,5.88,2026-04-03,2024-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,October,10,HDFC BANK,20.63,8131.7,2026-04-03,2024-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,October,10,FEDERAL BANK,15.77,7262.11,2026-04-03,2024-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,October,10,YES BANK LTD,15.39,7085.93,2026-04-03,2024-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,October,10,ICICI BANK,3.4,1181.54,2026-04-03,2024-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,October,10,RBL BANK LIMITED,3.14,1654.16,2026-04-03,2024-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,October,10,EMIRATES NBD BANK,1.46,674.27,2026-04-03,2024-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,October,10,CANARA BANK,0.8,390.65,2026-04-03,2024-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,October,10,PUNJAB NATIONAL BANK,0.63,450.28,2026-04-03,2024-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,October,10,AXIS BANK,0.46,305.18,2026-04-03,2024-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,October,10,THE SOUTH INDIAN BANK,0.42,161.11,2026-04-03,2024-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,October,10,INDUSIND BANK,0.42,206.21,2026-04-03,2024-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,October,10,KOTAK MAHINDRA BANK,0.21,97.5,2026-04-03,2024-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,October,10,STATE BANK OF INDIA,0.07,22.85,2026-04-03,2024-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,October,10,CITIBANK,0.01,7.47,2026-04-03,2024-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,September,9,HDFC BANK,18.2,7401.8,2026-04-03,2024-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,September,9,YES BANK LTD,15.18,7003.78,2026-04-03,2024-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,September,9,FEDERAL BANK,12.54,5825.14,2026-04-03,2024-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,September,9,RBL BANK LIMITED,3.32,1702.8,2026-04-03,2024-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,September,9,ICICI BANK,2.76,966.74,2026-04-03,2024-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,September,9,EMIRATES NBD BANK,1.26,561.74,2026-04-03,2024-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,September,9,CANARA BANK,0.7,355.19,2026-04-03,2024-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,September,9,PUNJAB NATIONAL BANK,0.65,440.5,2026-04-03,2024-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,September,9,AXIS BANK,0.51,304.46,2026-04-03,2024-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,September,9,INDUSIND BANK,0.37,177.43,2026-04-03,2024-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,September,9,THE SOUTH INDIAN BANK,0.25,125.53,2026-04-03,2024-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,September,9,KOTAK MAHINDRA BANK,0.19,91.04,2026-04-03,2024-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,September,9,STATE BANK OF INDIA,0.12,41.72,2026-04-03,2024-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,September,9,CITIBANK,0.01,6,2026-04-03,2024-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2025,March,3,HDFC BANK,24.95,10383.36,2026-04-03,2025-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2025,March,3,FEDERAL BANK,24.18,9515.4,2026-04-03,2025-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2025,March,3,YES BANK LTD,14.94,7659.67,2026-04-03,2025-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2025,March,3,ICICI BANK,3.95,1398.07,2026-04-03,2025-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2025,March,3,RBL BANK LIMITED,3.62,2083.46,2026-04-03,2025-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2025,March,3,EMIRATES NBD BANK,1.63,745.43,2026-04-03,2025-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2025,March,3,THE SOUTH INDIAN BANK,0.85,427.34,2026-04-03,2025-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2025,March,3,CANARA BANK,0.74,351.06,2026-04-03,2025-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2025,March,3,PUNJAB NATIONAL BANK,0.65,495.95,2026-04-03,2025-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2025,March,3,AXIS BANK,0.52,342.08,2026-04-03,2025-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2025,March,3,INDUSIND BANK,0.38,208.98,2026-04-03,2025-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2025,March,3,KOTAK MAHINDRA BANK,0.26,153.68,2026-04-03,2025-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2025,March,3,STATE BANK OF INDIA,0.18,63.4,2026-04-03,2025-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2025,March,3,CITIBANK,0.01,8.98,2026-04-03,2025-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2025,March,3,IDFC BANK,0,0.32,2026-04-03,2025-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,August,8,HDFC BANK,35.25,13423.97,2026-04-03,2025-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,August,8,FEDERAL BANK,20.7,9088.92,2026-04-03,2025-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,August,8,YES BANK LTD,13.49,6673.24,2026-04-03,2025-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,August,8,ICICI BANK,3.51,1250.94,2026-04-03,2025-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,August,8,RBL BANK LIMITED,3.48,2209.44,2026-04-03,2025-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,August,8,EMIRATES NBD BANK,1.66,780.23,2026-04-03,2025-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,August,8,CANARA BANK,0.87,467.9,2026-04-03,2025-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,August,8,PUNJAB NATIONAL BANK,0.6,455.13,2026-04-03,2025-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,August,8,AXIS BANK,0.42,308.26,2026-04-03,2025-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,August,8,THE SOUTH INDIAN BANK,0.3,117.49,2026-04-03,2025-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,August,8,STATE BANK OF INDIA,0.28,135.44,2026-04-03,2025-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,August,8,KOTAK MAHINDRA BANK,0.27,166.77,2026-04-03,2025-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,August,8,INDUSIND BANK,0.14,130.77,2026-04-03,2025-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,August,8,IDFC BANK,0.03,22.67,2026-04-03,2025-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,August,8,CITIBANK,0.02,12.31,2026-04-03,2025-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,December,12,HDFC BANK,37.39,15739.21,2026-04-03,2026-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,December,12,FEDERAL BANK,25.39,11401.99,2026-04-03,2026-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,December,12,YES BANK LTD,11.84,6262.60,2026-04-03,2026-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,December,12,RBL BANK LIMITED,6.72,3520.69,2026-04-03,2026-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,December,12,ICICI BANK,2.62,957.05,2026-04-03,2026-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,December,12,EMIRATES NBD BANK,1.60,751.23,2026-04-03,2026-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,December,12,CANARA BANK,0.94,544.68,2026-04-03,2026-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,December,12,PUNJAB NATIONAL BANK,0.60,464.48,2026-04-03,2026-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,December,12,AXIS BANK,0.48,329.18,2026-04-03,2026-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,December,12,STATE BANK OF INDIA,0.47,214.08,2026-04-03,2026-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,December,12,THE SOUTH INDIAN BANK,0.31,126.48,2026-04-03,2026-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,December,12,KOTAK MAHINDRA BANK,0.30,175.49,2026-04-03,2026-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,December,12,INDUSIND BANK,0.15,151.71,2026-04-03,2026-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,December,12,IDFC BANK,0.08,65.81,2026-04-03,2026-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,December,12,CITIBANK,0.03,17.85,2026-04-03,2026-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,December,12,STANDARD CHARTERED BANK,0.023,19.89,2026-04-03,2026-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2026,January,1,HDFC BANK,42.09,17528.96,2026-04-03,2026-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2026,January,1,FEDERAL BANK,24.64,11317.30,2026-04-03,2026-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2026,January,1,YES BANK LTD,11.49,6209.05,2026-04-03,2026-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2026,January,1,RBL BANK LIMITED,5.46,3484.82,2026-04-03,2026-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2026,January,1,ICICI BANK,2.55,899.96,2026-04-03,2026-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2026,January,1,EMIRATES NBD BANK,1.59,746.52,2026-04-03,2026-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2026,January,1,CANARA BANK,0.91,521.29,2026-04-03,2026-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2026,January,1,PUNJAB NATIONAL BANK,0.55,426.74,2026-04-03,2026-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2026,January,1,AXIS BANK,0.46,306.72,2026-04-03,2026-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2026,January,1,THE SOUTH INDIAN BANK,0.35,140.10,2026-04-03,2026-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2026,January,1,KOTAK MAHINDRA BANK,0.28,160.21,2026-04-03,2026-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2026,January,1,INDUSIND BANK,0.28,214.99,2026-04-03,2026-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2026,January,1,STATE BANK OF INDIA,0.22,121.96,2026-04-03,2026-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2026,January,1,IDFC BANK,0.09,67.56,2026-04-03,2026-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2026,January,1,CITIBANK,0.04,19.34,2026-04-03,2026-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2026,January,1,STANDARD CHARTERED BANK,0.020,17.68,2026-04-03,2026-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,November,11,HDFC BANK,34.80,13356.72,2026-04-03,2025-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,November,11,FEDERAL BANK,22.14,9756.09,2026-04-03,2025-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,November,11,YES BANK LTD,9.13,4612.36,2026-04-03,2025-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,November,11,RBL BANK LIMITED,4.05,2269.24,2026-04-03,2025-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,November,11,ICICI BANK,2.33,851.11,2026-04-03,2025-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,November,11,EMIRATES NBD BANK,1.49,686.16,2026-04-03,2025-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,November,11,CANARA BANK,0.80,420.35,2026-04-03,2025-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,November,11,PUNJAB NATIONAL BANK,0.53,409.36,2026-04-03,2025-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,November,11,AXIS BANK,0.44,298.67,2026-04-03,2025-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,November,11,THE SOUTH INDIAN BANK,0.31,128.11,2026-04-03,2025-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,November,11,STATE BANK OF INDIA,0.27,133.91,2026-04-03,2025-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,November,11,KOTAK MAHINDRA BANK,0.26,143.45,2026-04-03,2025-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,November,11,INDUSIND BANK,0.13,125.30,2026-04-03,2025-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,November,11,IDFC BANK,0.09,59.11,2026-04-03,2025-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,November,11,CITIBANK,0.02,14.05,2026-04-03,2025-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,November,11,STANDARD CHARTERED BANK,0.005,4.11,2026-04-03,2025-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,October,10,HDFC BANK,35.29,13070.11,2026-04-03,2025-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,October,10,FEDERAL BANK,22.24,9409.73,2026-04-03,2025-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,October,10,YES BANK LTD,10.18,4882.22,2026-04-03,2025-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,October,10,RBL BANK LIMITED,5.06,2864.10,2026-04-03,2025-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,October,10,ICICI BANK,2.88,968.96,2026-04-03,2025-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,October,10,EMIRATES NBD BANK,1.53,688.20,2026-04-03,2025-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,October,10,CANARA BANK,0.84,414.23,2026-04-03,2025-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,October,10,PUNJAB NATIONAL BANK,0.58,440.08,2026-04-03,2025-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,October,10,AXIS BANK,0.48,320.91,2026-04-03,2025-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,October,10,STATE BANK OF INDIA,0.40,166.77,2026-04-03,2025-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,October,10,THE SOUTH INDIAN BANK,0.39,165.37,2026-04-03,2025-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,October,10,KOTAK MAHINDRA BANK,0.28,154.53,2026-04-03,2025-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,October,10,INDUSIND BANK,0.13,125.64,2026-04-03,2025-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,October,10,IDFC BANK,0.07,54.27,2026-04-03,2025-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,October,10,CITIBANK,0.02,14.96,2026-04-03,2025-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,September,9,HDFC BANK,34.01,13086.09,2026-04-03,2025-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,September,9,FEDERAL BANK,16.72,8059.85,2026-04-03,2025-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,September,9,YES BANK LTD,11.83,5963.42,2026-04-03,2025-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,September,9,RBL BANK LIMITED,8.17,3391.42,2026-04-03,2025-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,September,9,ICICI BANK,2.83,963.15,2026-04-03,2025-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,September,9,EMIRATES NBD BANK,1.46,664.30,2026-04-03,2025-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,September,9,CANARA BANK,0.83,437.97,2026-04-03,2025-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,September,9,PUNJAB NATIONAL BANK,0.56,432.22,2026-04-03,2025-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,September,9,AXIS BANK,0.46,312.40,2026-04-03,2025-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,September,9,STATE BANK OF INDIA,0.34,151.30,2026-04-03,2025-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,September,9,KOTAK MAHINDRA BANK,0.26,159.15,2026-04-03,2025-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,September,9,THE SOUTH INDIAN BANK,0.26,102.54,2026-04-03,2025-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,September,9,INDUSIND BANK,0.14,129.53,2026-04-03,2025-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,September,9,IDFC BANK,0.06,45.26,2026-04-03,2025-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2025-26,2025,September,9,CITIBANK,0.02,11.85,2026-04-03,2025-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,December,12,HDFC BANK,20.8,8281.62,2026-04-03,2025-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,December,12,FEDERAL BANK,16.55,7533.07,2026-04-03,2025-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,December,12,YES BANK LTD,14.14,6734.51,2026-04-03,2025-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,December,12,RBL BANK LIMITED,3.79,1978.87,2026-04-03,2025-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,December,12,ICICI BANK,3.19,1137.41,2026-04-03,2025-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,December,12,EMIRATES NBD BANK,1.49,684.29,2026-04-03,2025-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,December,12,THE SOUTH INDIAN BANK,0.87,349.24,2026-04-03,2025-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,December,12,CANARA BANK,0.74,358.02,2026-04-03,2025-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,December,12,PUNJAB NATIONAL BANK,0.63,482.69,2026-04-03,2025-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,December,12,AXIS BANK,0.47,320.43,2026-04-03,2025-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,December,12,INDUSIND BANK,0.25,178.41,2026-04-03,2025-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,December,12,KOTAK MAHINDRA BANK,0.24,131.7,2026-04-03,2025-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,December,12,STATE BANK OF INDIA,0.09,30.96,2026-04-03,2025-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,December,12,CITIBANK,0.01,7.38,2026-04-03,2025-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,April,4,HDFC Bank,15.68,5769.22,2026-04-03,2024-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,April,4,Yes Bank,15.49,7003.37,2026-04-03,2024-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,April,4,Federal Bank,14.76,6520.25,2026-04-03,2024-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,April,4,RBL Bank Limited,2.92,1500.9,2026-04-03,2024-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,April,4,ICICI Bank,2.54,793.33,2026-04-03,2024-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,April,4,The South Indian Bank,2.22,436.69,2026-04-03,2024-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,April,4,Punjab National Bank,0.92,646.2,2026-04-03,2024-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,April,4,Axis Bank,0.78,463.62,2026-04-03,2024-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,April,4,Kotak Mahindra Bank,0.22,88.05,2026-04-03,2024-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,April,4,IndusInd Bank,0.15,105.51,2026-04-03,2024-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,April,4,Emirates NBD Bank,0.1,2.43,2026-04-03,2024-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,April,4,State Bank of India,0.03,10.53,2026-04-03,2024-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,April,4,Canara Bank,0.03,10.83,2026-04-03,2024-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,April,4,Citibank,0,2.02,2026-04-03,2024-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,July,7,Yes Bank Ltd,18.58,9050.38,2026-04-03,2024-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,July,7,HDFC Bank,14.67,6184.59,2026-04-03,2024-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,July,7,Federal Bank,13.83,6664.42,2026-04-03,2024-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,July,7,RBL Bank Limited,2.89,1531.68,2026-04-03,2024-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,July,7,ICICI Bank,2.84,964.94,2026-04-03,2024-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,July,7,Emirates NBD Bank,1.29,622.02,2026-04-03,2024-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,July,7,Punjab National Bank,0.97,697.8,2026-04-03,2024-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,July,7,Axis Bank,0.83,489.78,2026-04-03,2024-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,July,7,Canara Bank,0.58,311.4,2026-04-03,2024-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,July,7,The South Indian Bank,0.25,111.75,2026-04-03,2024-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,July,7,Kotak Mahindra Bank,0.24,99.18,2026-04-03,2024-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,July,7,Indusind Bank,0.12,83.99,2026-04-03,2024-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,July,7,State Bank Of India,0.06,22.9,2026-04-03,2024-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,July,7,Citibank,0.01,3.98,2026-04-03,2024-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,June,6,Yes Bank,17.11,7726.8,2026-04-03,2024-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,June,6,Federal Bank,13.64,6358.8,2026-04-03,2024-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,June,6,HDFC Bank,12.93,5307.23,2026-04-03,2024-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,June,6,RBL Bank,2.94,1570.75,2026-04-03,2024-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,June,6,ICICI Bank,2.81,932.11,2026-04-03,2024-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,June,6,Emirates NBD Bank,1.28,620.05,2026-04-03,2024-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,June,6,Punjab National Bank,0.94,672.64,2026-04-03,2024-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,June,6,Axis Bank,0.78,475.35,2026-04-03,2024-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,June,6,The South Indian Bank,0.23,102.45,2026-04-03,2024-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,June,6,Kotak Mahindra Bank,0.21,90.06,2026-04-03,2024-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,June,6,Canara Bank,0.2,60.25,2026-04-03,2024-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,June,6,IndusInd Bank,0.13,88.06,2026-04-03,2024-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,June,6,State Bank Of India,0.05,15.35,2026-04-03,2024-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,June,6,Citibank,0,2.44,2026-04-03,2024-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,June,6,HSBC Bank,0,0,2026-04-03,2024-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,May,5,Yes Bank,17.96,8394.29,2026-04-03,2024-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,May,5,HDFC Bank,14.17,5891.02,2026-04-03,2024-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,May,5,Federal Bank,13.73,6513.82,2026-04-03,2024-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,May,5,RBL Bank Limited,3.01,1593.29,2026-04-03,2024-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,May,5,ICICI Bank,2.91,936.82,2026-04-03,2024-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,May,5,Emirates NBD Bank,0.95,378.04,2026-04-03,2024-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,May,5,Punjab National Bank,0.95,672.7,2026-04-03,2024-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,May,5,Axis Bank,0.81,476.75,2026-04-03,2024-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,May,5,Canara Bank,0.31,155.61,2026-04-03,2024-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,May,5,Kotak Mahindra Bank,0.24,101.27,2026-04-03,2024-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,May,5,The South Indian Bank,0.24,94.92,2026-04-03,2024-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,May,5,IndusInd Bank,0.14,92.67,2026-04-03,2024-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,May,5,State Bank of India,0.05,15.32,2026-04-03,2024-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,May,5,Citibank,0.01,3.05,2026-04-03,2024-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,April,4,Federal Bank,14.36,4922.49,2026-04-03,2023-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,April,4,Yes Bank Ltd,12.26,4641.98,2026-04-03,2023-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,April,4,HDFC Bank,8.85,3295.79,2026-04-03,2023-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,April,4,RBL Bank Limited,4.04,1790.62,2026-04-03,2023-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,April,4,ICICI Bank,3.58,1132.67,2026-04-03,2023-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,April,4,The South Indian Bank,2.46,491.03,2026-04-03,2023-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,April,4,Punjab national Bank,1.31,982.4,2026-04-03,2023-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,April,4,Axis Bank,0.66,343.56,2026-04-03,2023-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,April,4,IndusInd Bank,0.23,117.37,2026-04-03,2023-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,April,4,Kotak Mahindra Bank,0.14,55.93,2026-04-03,2023-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,April,4,Canara Bank,0.07,15.11,2026-04-03,2023-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,April,4,State Bank of India,0.01,4.31,2026-04-03,2023-05-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,August,8,Federal Bank,13.62,5194.46,2026-04-03,2023-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,August,8,Yes Bank Ltd,11.3,5085.3,2026-04-03,2023-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,August,8,HDFC Bank,10.41,3625.8,2026-04-03,2023-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,August,8,RBL Bank Limited,4.12,1853.03,2026-04-03,2023-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,August,8,ICICI Bank,3.63,1198.61,2026-04-03,2023-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,August,8,The South Indian Bank,2.51,546.75,2026-04-03,2023-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,August,8,Punjab national Bank,0.75,543.75,2026-04-03,2023-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,August,8,Axis Bank,0.51,227.43,2026-04-03,2023-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,August,8,Indusind Bank,0.21,126.94,2026-04-03,2023-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,August,8,Kotak Mahindra Bank,0.15,59.23,2026-04-03,2023-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,August,8,State Bank of India,0.13,67.24,2026-04-03,2023-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,August,8,Canara Bank,0.03,5.48,2026-04-03,2023-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,August,8,YES BANK LTD,19.28,9433.16,2026-04-03,2024-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,August,8,HDFC BANK,16.76,7081.94,2026-04-03,2024-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,August,8,FEDERAL BANK,14.3,6731.83,2026-04-03,2024-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,August,8,RBL BANK LIMITED,3.16,1739.95,2026-04-03,2024-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,August,8,ICICI BANK,3,1045.97,2026-04-03,2024-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,August,8,EMIRATES NBD BANK,1.31,619.4,2026-04-03,2024-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,August,8,PUNJAB NATIONAL BANK,0.98,657.5,2026-04-03,2024-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,August,8,AXIS BANK,0.81,461.24,2026-04-03,2024-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,August,8,CANARA BANK,0.55,330.01,2026-04-03,2024-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,August,8,INDUSIND BANK,0.26,141.29,2026-04-03,2024-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,August,8,THE SOUTH INDIAN BANK,0.25,134.3,2026-04-03,2024-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,August,8,KOTAK MAHINDRA BANK,0.23,103.24,2026-04-03,2024-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,August,8,STATE BANK OF INDIA,0.12,40.56,2026-04-03,2024-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2024-25,2024,August,8,CITIBANK,0.01,6.49,2026-04-03,2024-09-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2022,December,12,Yes Bank Ltd,14.72,6683.53,2026-04-03,2023-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2022,December,12,Federal Bank,12.66,4843.08,2026-04-03,2023-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2022,December,12,HDFC Bank,10.95,4363.04,2026-04-03,2023-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2022,December,12,ICICI Bank,3.21,1010.62,2026-04-03,2023-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2022,December,12,RBL Bank Limited,3.02,1601.42,2026-04-03,2023-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2022,December,12,The South Indian Bank,2.42,517.03,2026-04-03,2023-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2022,December,12,Punjab national Bank,1.33,1014.31,2026-04-03,2023-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2022,December,12,Axis Bank,0.67,369.91,2026-04-03,2023-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2022,December,12,IndusInd Bank,0.31,187.75,2026-04-03,2023-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2022,December,12,Kotak Mahindra Bank,0.12,57.15,2026-04-03,2023-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2022,December,12,Canara Bank,0.07,14.73,2026-04-03,2023-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2022,December,12,State Bank of India,0.01,4.18,2026-04-03,2023-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,December,12,Yes Bank Ltd,15.64,7367.08,2026-04-03,2024-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,December,12,HDFC Bank,15,5758.47,2026-04-03,2024-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,December,12,Federal Bank,13.15,5378.12,2026-04-03,2024-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,December,12,ICICI Bank,3.16,1041.05,2026-04-03,2024-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,December,12,RBL Bank Limited,3.05,1559.91,2026-04-03,2024-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,December,12,The South Indian Bank,2.55,556.75,2026-04-03,2024-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,December,12,Punjab National Bank,1,729.94,2026-04-03,2024-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,December,12,Axis Bank,0.79,511.1,2026-04-03,2024-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,December,12,Kotak Mahindra Bank,0.21,91.71,2026-04-03,2024-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,December,12,IndusInd Bank,0.19,112.34,2026-04-03,2024-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,December,12,State Bank of India,0.14,79.58,2026-04-03,2024-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,December,12,Canara Bank,0.02,4.53,2026-04-03,2024-01-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2023,February,2,Federal Bank,10.94,4252.03,2026-04-03,2023-03-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2023,February,2,Yes Bank Ltd,9.63,4605.25,2026-04-03,2023-03-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2023,February,2,HDFC Bank,8.31,3136.13,2026-04-03,2023-03-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2023,February,2,RBL Bank Limited,2.96,1449.14,2026-04-03,2023-03-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2023,February,2,ICICI Bank,2.57,791.56,2026-04-03,2023-03-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2023,February,2,The South Indian Bank,2.17,464.59,2026-04-03,2023-03-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2023,February,2,Punjab national Bank,1.22,920.52,2026-04-03,2023-03-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2023,February,2,Axis Bank,0.45,284.46,2026-04-03,2023-03-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2023,February,2,IndusInd Bank,0.29,195.98,2026-04-03,2023-03-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2023,February,2,Kotak Mahindra Bank,0.1,45.12,2026-04-03,2023-03-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2023,February,2,State Bank of India,0.03,13.88,2026-04-03,2023-03-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2023,February,2,Canara Bank,0.03,6.54,2026-04-03,2023-03-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,February,2,Yes Bank,15.18,6634.69,2026-04-03,2024-03-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,February,2,HDFC Bank,13.17,4710.64,2026-04-03,2024-03-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,February,2,Federal Bank,12.52,5616.64,2026-04-03,2024-03-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,February,2,ICICI Bank,3.13,1012.66,2026-04-03,2024-03-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,February,2,RBL Bank,2.59,1290.82,2026-04-03,2024-03-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,February,2,The South Indian Bank,2.38,524.6,2026-04-03,2024-03-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,February,2,Punjab National Bank,0.91,660.49,2026-04-03,2024-03-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,February,2,Axis Bank,0.77,469.44,2026-04-03,2024-03-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,February,2,Kotak Mahindra Bank,0.21,82.98,2026-04-03,2024-03-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,February,2,IndusInd Bank,0.16,91.24,2026-04-03,2024-03-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,February,2,State Bank of India,0.08,37.49,2026-04-03,2024-03-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,February,2,Emirates NBD Bank,0.03,0.61,2026-04-03,2024-03-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,February,2,Canara Bank,0.01,2.63,2026-04-03,2024-03-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,February,2,CITI Bank,0,1.92,2026-04-03,2024-03-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2023,January,1,Yes Bank Ltd,12.1,5321.21,2026-04-03,2023-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2023,January,1,Federal Bank,11.76,4208.7,2026-04-03,2023-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2023,January,1,HDFC Bank,8.77,3488.37,2026-04-03,2023-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2023,January,1,RBL Bank Limited,3.08,1473.64,2026-04-03,2023-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2023,January,1,ICICI Bank,2.84,851.71,2026-04-03,2023-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2023,January,1,The South Indian Bank,2.25,470.52,2026-04-03,2023-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2023,January,1,Punjab national Bank,1.3,970.2,2026-04-03,2023-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2023,January,1,Axis Bank,0.47,291.71,2026-04-03,2023-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2023,January,1,IndusInd Bank,0.28,166.55,2026-04-03,2023-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2023,January,1,Kotak Mahindra Bank,0.1,45.45,2026-04-03,2023-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2023,January,1,Canara Bank,0.06,12.38,2026-04-03,2023-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2023,January,1,State Bank of India,0.03,8.26,2026-04-03,2023-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,January,1,Yes Bank,14.36,6389.68,2026-04-03,2024-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,January,1,HDFC Bank,13.65,4890.4,2026-04-03,2024-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,January,1,Federal Bank,12.43,5289.58,2026-04-03,2024-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,January,1,ICICI Bank,3.28,1063.35,2026-04-03,2024-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,January,1,RBL Bank,2.75,1384.4,2026-04-03,2024-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,January,1,The South Indian Bank,2.49,555.75,2026-04-03,2024-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,January,1,Punjab National Bank,0.92,662.15,2026-04-03,2024-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,January,1,Axis Bank,0.8,478.99,2026-04-03,2024-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,January,1,Kotak Mahindra Bank,0.21,83.31,2026-04-03,2024-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,January,1,IndusInd Bank,0.17,98.58,2026-04-03,2024-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,January,1,State Bank of India,0.13,72,2026-04-03,2024-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,January,1,Canara Bank,0.01,2.6,2026-04-03,2024-02-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,July,7,Federal Bank,12.89,5038,2026-04-03,2023-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,July,7,Yes Bank Ltd,10.76,5141.14,2026-04-03,2023-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,July,7,HDFC Bank,9.21,3435.04,2026-04-03,2023-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,July,7,RBL Bank Limited,4.1,1873.1,2026-04-03,2023-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,July,7,ICICI Bank,4.09,1372.87,2026-04-03,2023-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,July,7,The South Indian Bank,2.39,514.06,2026-04-03,2023-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,July,7,Axis Bank,1.5,602.47,2026-04-03,2023-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,July,7,Punjab national Bank,1.28,974.35,2026-04-03,2023-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,July,7,IndusInd Bank,0.22,110.81,2026-04-03,2023-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,July,7,Kotak Mahindra Bank,0.14,61.99,2026-04-03,2023-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,July,7,State Bank of India,0.12,67.56,2026-04-03,2023-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,July,7,Canara Bank,0.04,7.2,2026-04-03,2023-08-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,June,6,Federal Bank,12.6,4881.66,2026-04-03,2023-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,June,6,Yes Bank Ltd,10.9,4787.87,2026-04-03,2023-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,June,6,HDFC Bank,8.23,3141.86,2026-04-03,2023-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,June,6,ICICI Bank,4.6,1617.5,2026-04-03,2023-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,June,6,RBL Bank Limited,3.85,1772.92,2026-04-03,2023-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,June,6,The South Indian Bank,2.41,526.56,2026-04-03,2023-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,June,6,Punjab national Bank,1.18,938.02,2026-04-03,2023-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,June,6,Axis Bank,0.57,300.34,2026-04-03,2023-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,June,6,IndusInd Bank,0.21,119.55,2026-04-03,2023-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,June,6,Kotak Mahindra Bank,0.14,57.99,2026-04-03,2023-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,June,6,Canara Bank,0.07,15.34,2026-04-03,2023-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,June,6,State Bank of India,0.03,9.97,2026-04-03,2023-07-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2023,March,3,Federal Bank,13.17,4878.24,2026-04-03,2023-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2023,March,3,Yes Bank Ltd,11.31,5220.35,2026-04-03,2023-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2023,March,3,HDFC Bank,8.75,3415.21,2026-04-03,2023-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2023,March,3,RBL Bank Limited,4.15,1878.39,2026-04-03,2023-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2023,March,3,ICICI Bank,2.93,890.72,2026-04-03,2023-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2023,March,3,The South Indian Bank,2.41,537.57,2026-04-03,2023-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2023,March,3,Punjab national Bank,1.35,1046.92,2026-04-03,2023-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2023,March,3,Axis Bank,0.68,362.82,2026-04-03,2023-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2023,March,3,IndusInd Bank,0.25,127.98,2026-04-03,2023-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2023,March,3,Kotak Mahindra Bank,0.13,55.25,2026-04-03,2023-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2023,March,3,State Bank of India,0.01,3.49,2026-04-03,2023-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,March,3,Yes Bank,17.36,7971.88,2026-04-03,2024-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,March,3,HDFC Bank,16.52,6078.61,2026-04-03,2024-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,March,3,Federal Bank,13.76,6478.47,2026-04-03,2024-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,March,3,RBL Bank,3.16,1633.38,2026-04-03,2024-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,March,3,ICICI Bank,2.92,980.45,2026-04-03,2024-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,March,3,The South Indian Bank,2.66,529.4,2026-04-03,2024-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,March,3,Punjab National Bank,1.02,757.9,2026-04-03,2024-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,March,3,Axis Bank,0.84,525.21,2026-04-03,2024-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,March,3,Kotak Mahindra Bank,0.23,98.15,2026-04-03,2024-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,March,3,IndusInd Bank,0.16,112.86,2026-04-03,2024-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,March,3,Emirates NBD Bank,0.08,1.89,2026-04-03,2024-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,March,3,State Bank Of India,0.05,19.31,2026-04-03,2024-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,March,3,Canara Bank,0.01,3.03,2026-04-03,2024-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2024,March,3,Citi Bank,0,2.27,2026-04-03,2024-04-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,May,5,Federal Bank,12.6,4881.66,2026-04-03,2023-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,May,5,Yes Bank Ltd,10.9,4787.87,2026-04-03,2023-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,May,5,HDFC Bank,8.23,3141.86,2026-04-03,2023-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,May,5,ICICI Bank,4.6,1617.5,2026-04-03,2023-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,May,5,RBL Bank Limited,3.85,1772.92,2026-04-03,2023-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,May,5,The South Indian Bank,2.41,526.56,2026-04-03,2023-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,May,5,Punjab national Bank,1.18,938.02,2026-04-03,2023-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,May,5,Axis Bank,0.57,300.34,2026-04-03,2023-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,May,5,IndusInd Bank,0.21,119.55,2026-04-03,2023-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,May,5,Kotak Mahindra Bank,0.14,57.99,2026-04-03,2023-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,May,5,Canara Bank,0.07,15.34,2026-04-03,2023-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,May,5,State Bank of India,0.03,9.97,2026-04-03,2023-06-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2022,November,11,Yes Bank Ltd,13.63,6022.06,2026-04-03,2022-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2022,November,11,Federal Bank,10.22,3907.06,2026-04-03,2022-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2022,November,11,HDFC Bank,9.76,3831.07,2026-04-03,2022-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2022,November,11,ICICI Bank,2.96,882.65,2026-04-03,2022-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2022,November,11,RBL Bank Limited,2.86,1463.44,2026-04-03,2022-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2022,November,11,The South Indian Bank,2.17,453.43,2026-04-03,2022-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2022,November,11,Punjab national Bank,1.25,938.86,2026-04-03,2022-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2022,November,11,Axis Bank,0.61,315.25,2026-04-03,2022-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2022,November,11,IndusInd Bank,0.26,132.15,2026-04-03,2022-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2022,November,11,Kotak Mahindra Bank,0.13,58.37,2026-04-03,2022-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2022,November,11,Canara Bank,0.06,11.87,2026-04-03,2022-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2022,November,11,State Bank of India,0.01,2.78,2026-04-03,2022-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,November,11,Yes Bank Ltd,14.01,6625.87,2026-04-03,2023-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,November,11,HDFC Bank,13.89,5212.94,2026-04-03,2023-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,November,11,Federal Bank,12.59,5057.08,2026-04-03,2023-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,November,11,ICICI Bank,3.71,1201.63,2026-04-03,2023-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,November,11,RBL Bank Limited,3.1,1539.47,2026-04-03,2023-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,November,11,The South Indian Bank,2.37,520.44,2026-04-03,2023-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,November,11,Punjab National Bank,0.76,547.45,2026-04-03,2023-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,November,11,Axis Bank,0.71,397.76,2026-04-03,2023-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,November,11,Kotak Mahindra Bank,0.23,93.69,2026-04-03,2023-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,November,11,IndusInd Bank,0.16,93.03,2026-04-03,2023-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,November,11,HSBC Bank,0.14,75.05,2026-04-03,2023-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,November,11,State Bank of India,0.13,76.64,2026-04-03,2023-12-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2022,October,10,Yes Bank Ltd,12.75,5584.84,2026-04-03,2022-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2022,October,10,HDFC Bank,10.15,3961.07,2026-04-03,2022-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2022,October,10,Federal Bank,3.15,1256.36,2026-04-03,2022-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2022,October,10,ICICI Bank,2.9,863.45,2026-04-03,2022-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2022,October,10,RBL Bank Limited,2.85,1428.4,2026-04-03,2022-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2022,October,10,Axis Bank,0.65,341.44,2026-04-03,2022-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2022,October,10,The South Indian Bank,0.62,130.34,2026-04-03,2022-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2022,October,10,Punjab national Bank,0.34,249.34,2026-04-03,2022-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2022,October,10,IndusInd Bank,0.12,92.54,2026-04-03,2022-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2022,October,10,Kotak Mahindra Bank,0.11,48.07,2026-04-03,2022-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2022,October,10,Canara Bank,0.06,12.24,2026-04-03,2022-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2022-23,2022,October,10,State Bank of India,0.02,7.27,2026-04-03,2022-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,October,10,Yes Bank Ltd,12.67,5436.94,2026-04-03,2023-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,October,10,Federal Bank,12.57,4775.24,2026-04-03,2023-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,October,10,HDFC Bank,11.41,3988.42,2026-04-03,2023-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,October,10,ICICI Bank,3.98,1309.95,2026-04-03,2023-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,October,10,RBL Bank Limited,3.27,1553.26,2026-04-03,2023-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,October,10,The South Indian Bank,2.43,530.56,2026-04-03,2023-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,October,10,Axis Bank,0.58,286.99,2026-04-03,2023-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,October,10,Punjab national Bank,0.48,333.91,2026-04-03,2023-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,October,10,State Bank of India,0.21,89.66,2026-04-03,2023-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,October,10,Kotak Mahindra Bank,0.19,78.04,2026-04-03,2023-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,October,10,Indusind Bank,0.19,99.86,2026-04-03,2023-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,October,10,Canara Bank,0.03,5.32,2026-04-03,2023-11-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,September,9,Federal Bank,12.68,4764.62,2026-04-03,2023-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,September,9,Yes Bank Ltd,11.43,4977.65,2026-04-03,2023-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,September,9,HDFC Bank,10.6,3712.91,2026-04-03,2023-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,September,9,RBL Bank Limited,3.72,1675.32,2026-04-03,2023-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,September,9,ICICI Bank,3.58,1181.82,2026-04-03,2023-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,September,9,The South Indian Bank,2.41,518.09,2026-04-03,2023-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,September,9,Axis Bank,0.55,262.51,2026-04-03,2023-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,September,9,Punjab national Bank,0.5,350.17,2026-04-03,2023-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,September,9,Indusind Bank,0.21,113.57,2026-04-03,2023-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,September,9,State Bank of India,0.19,84.83,2026-04-03,2023-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,September,9,Kotak Mahindra Bank,0.14,59.73,2026-04-03,2023-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
+2023-24,2023,September,9,Canara Bank,0.03,5.25,2026-04-03,2023-10-15,National Payments Corporation of India (NPCI),https://www.npci.org.in/product/ecosystem-statistics/imps
